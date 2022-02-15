@@ -1,1 +1,36 @@
 # 2577_TheNumber
+
+made by Jaehyeok Choi
+
+## Welcome to Jaehyeok's github!
+
+## What is the problem?
+
+![image](https://github.com/Choi-JaeHyeok-21500749/2577_TheNumber/blob/main/2577_pro.PNG)
+
+## What Algorithm should I use?
+
+Implementation? Calculation?
+
+## What was the key point and the hard part?
+
+Umm...
+
+I saw this at mypage in 백준.
+
+This was the problem that I tried but I failed.
+
+I think I solve this when I was 20 years old (when I got D0 in C programing).
+
+This is very very easy problem for me now but in that time, maybe it was hard problem.
+
+This problem teach me not to hurry. It is like it is saving you are doing great.
+
+Ha Ha... 
+
+Cheer up!!!
+
+## Where can I get more help, if I need it?
+
+You can contact me through email, which is wogur7496@gmail.com.
+Thank you for visiting this github!
